@@ -1,0 +1,3 @@
+/home/vlad/DZ1/test_file.rb:29:in `<main>': Принудительно вызываем ошибку (RuntimeError)
+/home/vlad/DZ1/test_file.rb:29:in `<main>': Принудительно вызываем ошибку (RuntimeError)
+/home/vlad/DZ1/test_file.rb:29:in `<main>': Принудительно вызываем ошибку (RuntimeError)

@@ -1,0 +1,1374 @@
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[]};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[]};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>nil};true
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>["gg", "ee", "tt", "ss", "..", "cc", "hh", "oo", "mm", "pp"]};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[]};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz332;;true
+dz347;{:numbers=>[2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]};false
+dz434;{:ares=>[3, 4, 5, 21, 0.5, 0.5, 0.5, 0.5], :bres=>[31, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz332;1;false
+dz347;{:numbers=>[2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]};true
+dz434;{:ares=>[3, 4, 5, 21, 0.5, 0.5, 0.5, 0.5], :bres=>[31, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz332;1;false
+dz347;{:numbers=>[2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]};true
+dz434;{:ares=>[3, 4, 5, 21, 0.5, 0.5, 0.5, 0.5], :bres=>[31, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]};true
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz332;{:res=>[[1, 1, 7, 7], [1, 3, 3, 9], [1, 3, 9, 3], [1, 5, 5, 7], [1, 5, 7, 5], [1, 7, 1, 7], [1, 7, 5, 5], [1, 7, 7, 1], [1, 9, 3, 3], [2, 4, 4, 8], [2, 4, 8, 4], [2, 8, 4, 4], [3, 1, 3, 9], [3, 1, 9, 3], [3, 3, 1, 9], [3, 3, 9, 1], [3, 9, 1, 3], [3, 9, 3, 1], [4, 2, 4, 8], [4, 2, 8, 4], [4, 4, 2, 8], [4, 4, 8, 2], [4, 8, 2, 4], [4, 8, 4, 2], [5, 1, 5, 7], [5, 1, 7, 5], [5, 5, 1, 7], [5, 5, 5, 5], [5, 5, 7, 1], [5, 7, 1, 5], [5, 7, 5, 1], [7, 1, 1, 7], [7, 1, 5, 5], [7, 1, 7, 1], [7, 5, 1, 5], [7, 5, 5, 1], [7, 7, 1, 1], [8, 2, 4, 4], [8, 4, 2, 4], [8, 4, 4, 2], [9, 1, 3, 3], [9, 3, 1, 3], [9, 3, 3, 1]]};false
+dz347;{:numbers=>[2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]};true
+dz434;{:ares=>[3, 4, 5, 21, 0.5, 0.5, 0.5, 0.5], :bres=>[31, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]};true
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz332;;true
+dz347;{:numbers=>[2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]};true
+dz434;{:ares=>[3, 4, 5, 21, 0.5, 0.5, 0.5, 0.5], :bres=>[31, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]};true
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz332;;true
+dz347;{:numbers=>[2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]};true
+dz434;{:ares=>[3, 4, 5, 21, 0.5, 0.5, 0.5, 0.5], :bres=>[31, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]};true
+dz435;{:aarr=>[3, 4, 5, 21, 6, 7, 8, 19], :barr=>[31, 4, 5, 1, 6, 7, 8, 19]};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz332;;true
+dz347;{:numbers=>[2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]};true
+dz434;{:ares=>[3, 4, 5, 21, 0.5, 0.5, 0.5, 0.5], :bres=>[31, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]};true
+dz435;{:aarr=>[3, 4, 5, 21, 6, 7, 8, 19], :barr=>[31, 4, 5, 1, 6, 7, 8, 19]};true
+dz462;{:is_a_letter?=>true};true
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz332;;true
+dz347;{:numbers=>[2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]};true
+dz434;{:ares=>[3, 4, 5, 21, 0.5, 0.5, 0.5, 0.5], :bres=>[31, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]};true
+dz435;{:aarr=>[3, 4, 5, 21, 6, 7, 8, 19], :barr=>[31, 4, 5, 1, 6, 7, 8, 19]};true
+dz462;{:is_a_letter?=>true};true
+dz468;{:sym=>"o", :index=>4};false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz332;;true
+dz347;{:numbers=>[2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]};true
+dz434;{:ares=>[3, 4, 5, 21, 0.5, 0.5, 0.5, 0.5], :bres=>[31, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]};true
+dz435;{:aarr=>[3, 4, 5, 21, 6, 7, 8, 19], :barr=>[31, 4, 5, 1, 6, 7, 8, 19]};true
+dz462;{:is_a_letter?=>true};true
+dz468;{:sym=>"o", :index=>4};true
+dz469;Hello  world  good  morning!;false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz332;;true
+dz347;{:numbers=>[2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]};true
+dz434;{:ares=>[3, 4, 5, 21, 0.5, 0.5, 0.5, 0.5], :bres=>[31, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]};true
+dz435;{:aarr=>[3, 4, 5, 21, 6, 7, 8, 19], :barr=>[31, 4, 5, 1, 6, 7, 8, 19]};true
+dz462;{:is_a_letter?=>true};true
+dz468;{:sym=>"o", :index=>4};true
+dz469;Hello  world  good  morning!;false
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz332;;true
+dz347;{:numbers=>[2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]};true
+dz434;{:ares=>[3, 4, 5, 21, 0.5, 0.5, 0.5, 0.5], :bres=>[31, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]};true
+dz435;{:aarr=>[3, 4, 5, 21, 6, 7, 8, 19], :barr=>[31, 4, 5, 1, 6, 7, 8, 19]};true
+dz462;{:is_a_letter?=>true};true
+dz468;{:sym=>"o", :index=>4};true
+dz469;Hello  world  good  morning!;true
+dz1;{:summa=>-5.0, :diff=>1.0, :multiply=>6.0};false
+dz2;{:value=>0.0};true
+dz3;{:volume=>1000.0, :surface_area=>100.0};true
+dz4;{:sr_arifmet=>15.0, :sr_geometr=>14.142135623730951};true
+dz5;{:sr_arifmet=>10.0, :sr_geometr=>10.0};true
+dz6;{:gipotenuza=>0.0, :square=>0.0};false
+dz7;{:volume_M3=>0.03, :temperature=>26.666666666666668};false
+dz8;{:Perimetr=>0.7081324833347569};true
+dz9;{:resistance=>4.838709677419355};false
+dz10;{:falling_time=>4.5175395145262565};true
+dz11;{:a=>-0.011494252873563218, :b=>15.042304233484797};true
+dz12;{:triangel_square=>43.30127018922193};true
+dz13;{:Period_mayatnika=>2.8672713187921333};true
+dz14;{:force_of_gravity=>1.3476999999999999e-08};true
+dz15;{:katet2=>3.0, :radius=>1.0};true
+dz16;{:square=>397.88735772973837};true
+dz17;{:circle_square=>785.3981633974482};true
+dz18;{:a=>8.660254037844386, :b=>8.660254037844386, :c=>8.660254037844386};true
+dz19;{:t=>1427.7426793024786};true
+dz20;{:summa=>440};true
+dz33;{:max=>100.0, :min=>20.0};true
+dz34;[{:max=>30.0}, {:min=>10.0, :max1=>30.0}];true
+dz35;{:max=>6000.0, :min=>2026.0};true
+dz36;{:a_Less_b_Less_c=>true};true
+dz37;[30.0, 20.0, 10.0];false
+dz38;{:z=>30.0};true
+dz39;{:z=>[50.0, 100.0]};true
+dz40;{:result=>[0, 30.0]};true
+dz41;{:res=>[2.0]};true
+dz42;{:res=>[15.0, 400.0]};true
+dz43;{:res=>[2.0, 3.0, 5.0]};false
+dz77;{:n2=>32, :fact=>120};true
+dz196;{:arB=>[10, 22, 12, 26, 14, 30, 16, 34, 18, 38, 20, 42, 22, 46, 24, 50, 26, 54, 28, 58, 30, 62, 32, 66, 34, 70, 36, 74, 38, 78, 40, 82, 42, 86, 44, 90, 46, 94, 48, 98, 50, 102, 52, 106, 54, 110, 56, 114, 58, 118]};true
+dz200;9;true
+dz204;{:score=>12.5};true
+dz205;There are no such dz number!;false
+dz224;{:res=>[1, 3, 37, 111]};true
+dz225;{:res=>[25]};true
+dz251;{:res=>5};true
+dz258;{:res=>"qreyrejtsryt"};true
+dz259;{:res=>"ggeettss..cchhoommpp"};true
+dz330;{:res_perfect_num=>[1]};true
+dz331;{:res_num=>[[2, 10, 14], [2, 14, 10], [10, 2, 14], [10, 10, 10], [10, 14, 2], [14, 2, 10], [14, 10, 2]]};true
+dz332;{:res=>[[1, 1, 7, 7], [1, 3, 3, 9], [1, 3, 9, 3], [1, 5, 5, 7], [1, 5, 7, 5], [1, 7, 1, 7], [1, 7, 5, 5], [1, 7, 7, 1], [1, 9, 3, 3], [2, 4, 4, 8], [2, 4, 8, 4], [2, 8, 4, 4], [3, 1, 3, 9], [3, 1, 9, 3], [3, 3, 1, 9], [3, 3, 9, 1], [3, 9, 1, 3], [3, 9, 3, 1], [4, 2, 4, 8], [4, 2, 8, 4], [4, 4, 2, 8], [4, 4, 8, 2], [4, 8, 2, 4], [4, 8, 4, 2], [5, 1, 5, 7], [5, 1, 7, 5], [5, 5, 1, 7], [5, 5, 5, 5], [5, 5, 7, 1], [5, 7, 1, 5], [5, 7, 5, 1], [7, 1, 1, 7], [7, 1, 5, 5], [7, 1, 7, 1], [7, 5, 1, 5], [7, 5, 5, 1], [7, 7, 1, 1], [8, 2, 4, 4], [8, 4, 2, 4], [8, 4, 4, 2], [9, 1, 3, 3], [9, 3, 1, 3], [9, 3, 3, 1]]};true
+dz347;{:numbers=>[2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]};true
+dz434;{:ares=>[3, 4, 5, 21, 0.5, 0.5, 0.5, 0.5], :bres=>[31, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]};true
+dz435;{:aarr=>[3, 4, 5, 21, 6, 7, 8, 19], :barr=>[31, 4, 5, 1, 6, 7, 8, 19]};true
+dz462;{:is_a_letter?=>true};true
+dz468;{:sym=>"o", :index=>4};true
+dz469;Hello  world  good  morning!;true

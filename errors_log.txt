@@ -1,0 +1,18 @@
+/home/vlad/DZ1/dz2_class_Metelap.rb:308:in `gets': Interrupt
+	from /home/vlad/DZ1/dz2_class_Metelap.rb:308:in `gets'
+	from /home/vlad/DZ1/dz2_class_Metelap.rb:308:in `<main>'
+/home/vlad/DZ1/dz2_class_Metelap.rb:308:in `gets': Interrupt
+	from /home/vlad/DZ1/dz2_class_Metelap.rb:308:in `gets'
+	from /home/vlad/DZ1/dz2_class_Metelap.rb:308:in `<main>'
+/home/vlad/DZ1/dz2_class_Metelap.rb:308:in `gets': Interrupt
+	from /home/vlad/DZ1/dz2_class_Metelap.rb:308:in `gets'
+	from /home/vlad/DZ1/dz2_class_Metelap.rb:308:in `<main>'
+/home/vlad/DZ1/dz2_class_Metelap.rb:308:in `gets': Interrupt
+	from /home/vlad/DZ1/dz2_class_Metelap.rb:308:in `gets'
+	from /home/vlad/DZ1/dz2_class_Metelap.rb:308:in `<main>'
+/home/vlad/DZ1/dz2_class_Metelap.rb:306:in `gets': Interrupt
+	from /home/vlad/DZ1/dz2_class_Metelap.rb:306:in `gets'
+	from /home/vlad/DZ1/dz2_class_Metelap.rb:306:in `<main>'
+/home/vlad/DZ1/dz2_class_Metelap.rb:306:in `gets': Interrupt
+	from /home/vlad/DZ1/dz2_class_Metelap.rb:306:in `gets'
+	from /home/vlad/DZ1/dz2_class_Metelap.rb:306:in `<main>'
